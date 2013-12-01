@@ -28,4 +28,4 @@ var formatNumber = {
 
 formatNumber.new(123456779.18, "$") // retorna "$123.456.779,18"
 formatNumber.new(123456779.18) // retorna "123.456.779,18"
-formatNumber.new(123456779) // retorna "$123.456.779"
+formatNumber.new(123456779) // retorna "$123.456.779"//por aqui estubo ecr0071
